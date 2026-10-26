@@ -22,7 +22,7 @@ A set of PowerShell scripts to streamline batch software deployment and removal 
 3. Select the applications you want to install from the pop-up menu (Hold `CTRL` to select multiple).
 4. Click **OK** to begin batch installation.
 
-### 2. Interactive App Uninstaller (`uninstall_apps.ps1`)
+### 2. Interactive App Uninstaller (`uninstallapps.ps1`)
 1. Run `uninstall_apps.ps1` from anywhere on your machine via **Run with PowerShell**.
 2. A window displaying all installed applications (queried from Windows Registry) will appear.
 3. Select the apps you wish to remove and click **OK**.
