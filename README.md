@@ -16,7 +16,7 @@ A set of PowerShell scripts to streamline batch software deployment and removal 
 
 ## 🚀 How to Use
 
-### 1. Interactive App Installer (`install_apps.ps1`)
+### 1. Interactive App Installer (`installmultipleapps.ps1`)
 1. Place `install_apps.ps1` into a folder alongside your downloaded `.exe` and `.msi` installer files.
 2. Right-click `install_apps.ps1` -> **Run with PowerShell**.
 3. Select the applications you want to install from the pop-up menu (Hold `CTRL` to select multiple).
